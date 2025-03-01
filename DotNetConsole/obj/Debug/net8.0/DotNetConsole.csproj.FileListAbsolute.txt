@@ -1,0 +1,14 @@
+/Users/justinbeam/PlayersGuide/DotNetConsole/bin/Debug/net8.0/DotNetConsole
+/Users/justinbeam/PlayersGuide/DotNetConsole/bin/Debug/net8.0/DotNetConsole.deps.json
+/Users/justinbeam/PlayersGuide/DotNetConsole/bin/Debug/net8.0/DotNetConsole.runtimeconfig.json
+/Users/justinbeam/PlayersGuide/DotNetConsole/bin/Debug/net8.0/DotNetConsole.dll
+/Users/justinbeam/PlayersGuide/DotNetConsole/bin/Debug/net8.0/DotNetConsole.pdb
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.AssemblyInfoInputs.cache
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.AssemblyInfo.cs
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.csproj.CoreCompileInputs.cache
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.dll
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/refint/DotNetConsole.dll
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.pdb
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/DotNetConsole.genruntimeconfig.cache
+/Users/justinbeam/PlayersGuide/DotNetConsole/obj/Debug/net8.0/ref/DotNetConsole.dll
